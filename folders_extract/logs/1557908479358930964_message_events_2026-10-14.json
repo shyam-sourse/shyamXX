@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-10-14T16:52:41.824003",
+    "category": "message_events",
+    "guild_id": 1557908479358930964,
+    "channel_id": 1557908480407507049,
+    "author_id": 1548710449305092107,
+    "embed_data": {
+      "title": "Message Deleted",
+      "description": ""
+    },
+    "message_id": 1559972226126716999
+  },
+  {
+    "timestamp": "2026-10-14T16:54:44.044728",
+    "category": "message_events",
+    "guild_id": 1557908479358930964,
+    "channel_id": 1557908480407507049,
+    "author_id": 1548710449305092107,
+    "embed_data": {
+      "title": "Message Deleted",
+      "description": ""
+    },
+    "message_id": 1559972738066813021
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-10-09T02:30:56.783010",
+    "category": "join_leave_events",
+    "guild_id": 1557908479358930964,
+    "channel_id": null,
+    "author_id": 437808476106784770,
+    "embed_data": {
+      "title": "Member Joined",
+      "description": ""
+    },
+    "message_id": 1557943420281168074
+  },
+  {
+    "timestamp": "2026-10-09T02:38:41.918372",
+    "category": "join_leave_events",
+    "guild_id": 1557908479358930964,
+    "channel_id": null,
+    "author_id": 437808476106784770,
+    "embed_data": {
+      "title": "Member Left",
+      "description": ""
+    },
+    "message_id": 1557945371152355420
+  },
+  {
+    "timestamp": "2026-10-09T02:40:36.774075",
+    "category": "join_leave_events",
+    "guild_id": 1557908479358930964,
+    "channel_id": null,
+    "author_id": 1149535834756874250,
+    "embed_data": {
+      "title": "Member Joined",
+      "description": ""
+    },
+    "message_id": 1557945852558053458
+  },
+  {
+    "timestamp": "2026-10-09T13:01:55.618976",
+    "category": "join_leave_events",
+    "guild_id": 1557908479358930964,
+    "channel_id": null,
+    "author_id": 408785106942164992,
+    "embed_data": {
+      "title": "Member Joined",
+      "description": ""
+    },
+    "message_id": 1558102211068821575
+  },
+  {
+    "timestamp": "2026-10-09T13:02:13.347708",
+    "category": "join_leave_events",
+    "guild_id": 1557908479358930964,
+    "channel_id": null,
+    "author_id": 408785106942164992,
+    "embed_data": {
+      "title": "Member Left",
+      "description": ""
+    },
+    "message_id": 1558102285907656837
+  }
+]

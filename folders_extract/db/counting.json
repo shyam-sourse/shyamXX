@@ -1,0 +1,26 @@
+{
+    "1419729237480575070": {
+        "enabled": false,
+        "channel": 1421538951323193467,
+        "count": 4,
+        "reset_on_fail": false
+    },
+    "1519288250676805702": {
+        "enabled": true,
+        "channel": 1525632130032603389,
+        "count": 1053,
+        "reset_on_fail": false
+    },
+    "1524008438932312074": {
+        "enabled": true,
+        "channel": 1541842041741385769,
+        "count": 124,
+        "reset_on_fail": false
+    },
+    "948946537067708537": {
+        "enabled": true,
+        "channel": 1556319766183026759,
+        "count": 111,
+        "reset_on_fail": false
+    }
+}
